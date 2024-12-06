@@ -1,4 +1,4 @@
-# Offical implementation of GlocalCLIP
+# GlocalCLIP
 > by [Jiyul Ham](), [Yonggon Jung](), [Jun-Geol Baek]()
 
 ## Coming Soon...
