@@ -32,7 +32,6 @@ Zero-shot anomaly detection (ZSAD) plays a vital role in identifying anomalous p
 ![overview](https://github.com/YUL-git/GlocalCLIP/blob/main/asset/figure10.png)
 ![overview](https://github.com/YUL-git/GlocalCLIP/blob/main/asset/figure11.png)
 ![overview](https://github.com/YUL-git/GlocalCLIP/blob/main/asset/figure12.png)
-#
 
 ## Reproducibility
 Implementation environment 
