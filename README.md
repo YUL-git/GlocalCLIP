@@ -1,7 +1,7 @@
 # GlocalCLIP
 > by [Jiyul Ham](), [Yonggon Jung](), [Jun-Geol Baek]()
 
-### [paper](https://arxiv.org/abs/2411.06071). We will keep updating until the paper is accepted.
+### [paper](https://arxiv.org/abs/2411.06071). We will continue to update the paper and code!
 
 ## Introduction
 Zero-shot anomaly detection (ZSAD) plays a vital role in identifying anomalous patterns in target datasets without relying on training samples. Recently, pre-trained vision-language models demonstrated strong zero-shot performance across various visual tasks, which accelerate ZSAD. However, their focus on learning class semantics makes their direct application to ZSAD challenging. To address this scenario, we propose GlocalCLIP, which uniquely separates global and local prompts and jointly optimizes them. First, we design object-agnostic semantic prompts to detect fine-grained anomalous patterns. Then, we build a global-local branch, where the global prompt is optimized for detecting normal and anomalous patterns, and the local prompt focuses on anomaly localization. Finally, we introduce glocal contrastive learning to enhance the complementary interaction between global and local prompts, enabling more effective detection of anomalous patterns across diverse domains. The generalization performance of GlocalCLIP was demonstrated on 15 real-world datasets from both the industrial and medical domains, achieving superior performance compared to existing methods.
