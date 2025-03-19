@@ -60,3 +60,14 @@ bash train.sh
 
 ## Acknowledgement
 🤗 Thanks for the [OpenCLIP](https://github.com/mlfoundations/open_clip), [AnomalyCLIP](https://github.com/zqhang/AnomalyCLIP)
+
+## BibTex Citation
+If you find this paper and repository useful, please cite our paper.
+```
+@article{ham2024glocalclip,
+  title={GlocalCLIP: Object-agnostic Global-Local Prompt Learning for Zero-shot Anomaly Detection},
+  author={Ham, Jiyul and Jung, Yonggon and Baek, Jun-Geol},
+  journal={arXiv preprint arXiv:2411.06071},
+  year={2024}
+}
+```
